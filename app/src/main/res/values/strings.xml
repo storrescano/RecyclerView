@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="ver_reportes">Ver reportes</string>
+    <string name="editar_informe">Editar informe</string>
+    <string name="hasta_17_07_2017">Hasta 17/07/2017</string>
+    <string name="desde_17_03_2017">Desde 17/03/2017</string>
+    <string name="creado_el_d_a_01_02_2017">Creado el día 01/02/2017</string>
+    <string name="juan_ramos">Juan Ramos</string>
+    <string name="informe_777">INFORME 777</string>
+</resources>

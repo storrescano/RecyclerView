@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ver_reportes" parent="Widget.AppCompat.Button">
+        <item name="android:text">@string/ver_reportes</item>
+    </style>
+
+    <style name="editar_informe" parent="Widget.AppCompat.Button">
+        <item name="android:text">@string/editar_informe</item>
+    </style>
+
+    <style name="word_title">Hola</style>
+
+</resources>
